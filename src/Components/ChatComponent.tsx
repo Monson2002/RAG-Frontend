@@ -31,7 +31,7 @@ const ChatComponent = () => {
         ]);
         try {
             // http://127.0.0.1:5000/api/ask/
-            const response = await fetch('https://rag-backend-8knm.onrender.com',
+            const response = await fetch('https://rag-backend-8knm.onrender.com/api/ask/',
                 {
                     method: "POST",
                     headers: {
