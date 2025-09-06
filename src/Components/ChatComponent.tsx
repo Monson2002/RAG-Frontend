@@ -30,7 +30,8 @@ const ChatComponent = () => {
             { query: currentQuery, answer: "..." }  // show loading dots until answer comes
         ]);
         try {
-            const response = await fetch('http://127.0.0.1:5000/api/ask/',
+            // http://127.0.0.1:5000/api/ask/
+            const response = await fetch('https://rag-backend-8knm.onrender.com',
                 {
                     method: "POST",
                     headers: {
