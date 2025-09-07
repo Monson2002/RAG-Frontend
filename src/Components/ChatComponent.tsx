@@ -63,7 +63,7 @@ const ChatComponent = () => {
         <>
             <main className="main-section lg:m-2 bg-white lg:w-4/5 lg:h-4/5 flex flex-col justify-center items-center lg:rounded-2xl">
                 <section className="top-section lg:border-b-4 border-slate-200 w-full lg:h-1/5 flex justify-center items-center font-roboto">
-                    <h1 className="text lg:text-2xl">RAG</h1>
+                    <h1 className="text lg:text-2xl">EduRAG</h1>
                 </section>
                 {/* <section className="middle-section lg:h-3/5 lg:w-full flex flex-col justify-center items-center overflow-scroll overflow-x-hidden">
                     {chats.length == 0 ? (
