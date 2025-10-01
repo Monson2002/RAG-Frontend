@@ -1,5 +1,7 @@
 NOTE: IF THE APP IS NOT RESPONDING TO YOUR FIRST QUESTION, PLEASE ASK A SECOND ONE. THIS IS A BUG I AM STILL WORKING ON, IF YOU HAVE ANY IDEA ABOUT IT PLEASE FEEL FREE TO CONTACT ME.
 
+Link to Backend repo -> https://github.com/Monson2002/RAG-Backend
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
